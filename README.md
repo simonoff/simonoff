@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Simonoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonoff)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonoff)](https://github.com/anuraghazra/github-readme-stats)
+[![Simonoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonoff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonoff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **simonoff/simonoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
